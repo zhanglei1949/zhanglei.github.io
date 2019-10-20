@@ -3,7 +3,7 @@ layout: post
 title:  "LeetCode 题解-1.two sum"
 date:   2019-10-20 16:31:01 +0800
 ---
-
+对Leetcode 1. two sum 题目的求解。
 ## Problem Description
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
