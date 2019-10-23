@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LeetCode 题解-2.add two numbers"
-date:   2019-10-23 12:11:32 +0800
+date:   2019-10-20 12:11:32 +0800
 ---
 
 对Leetcode 2. two sum 题目的求解。
