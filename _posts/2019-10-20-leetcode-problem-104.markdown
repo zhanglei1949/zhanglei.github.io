@@ -91,3 +91,24 @@ public int maxDepth(TreeNode root) {
         return max;
     }
 ```
+
+## Solution 4
+事实上，我们还有一种更有效的遍历求解方法，即层次遍历。
+```java
+    public static int maxDepth(TreeNode root) {
+        if (root == null) return 0;
+        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        q.add(root);
+        int max = 0;
+        while (!q.isEmpty()){
+            int size = q.size();
+            for (int i = 0; i < size; ++i){
+                TreeNode tmp = q.poll();
+                if (tmp.left != null) q.add(tmp.left);
+                if (tmp.right != null) q.add(tmp.right);
+            }
+            max += 1;
+        }
+        return max;
+    }
+```
