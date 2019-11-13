@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LeetCode 题解-221. Maximal Square"
-date:   2019-11.13 20:50:12 +0800
+date:   2019-11-13 20:50:12 +0800
 ---
 
 对Leetcode 221. Maximal Square 题目的求解。
