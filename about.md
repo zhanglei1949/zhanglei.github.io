@@ -7,8 +7,8 @@ date:   2020-01-31 16:09:01 +8000
 
 ## My Resume(updated: 2020-3-7)
 
-[Zhanglei-resume][pdfaddress]
-[pdfaddress]: https://zhanglei1949.github.io/zhanglei-resume.pdf
+Click here to view my resume[Zhanglei-resume][pdfaddress]
+
 ## EducationExperience
 
 2014.9-2018.7 Shanghai Jiao Tong University, bachelor in **Compueter Science(IEEE Honor class)**
@@ -26,4 +26,6 @@ My research interests include **adversarial machine learning**, **Automatic Spea
 
 2017.6-2018.1 Software intern @**Big Data Group, Intel**, Shanghai Zizhu. Mainly worked on distributed systems, including benchmarking for Spark/HBase on Ceph/Hadoop.
 
+
+[pdfaddress]: https://zhanglei1949.github.io/zhanglei-resume.pdf
 
