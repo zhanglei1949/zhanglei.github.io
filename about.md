@@ -5,6 +5,10 @@ description: About Me
 date:   2020-01-31 16:09:01 +8000
 ---
 
+## My Resume(updated: 2020-3-7)
+
+[Zhanglei-resume][pdfaddress]
+[pdfaddress]: https://zhanglei1949.github.io/zhanglei-resume.pdf
 ## EducationExperience
 
 2014.9-2018.7 Shanghai Jiao Tong University, bachelor in **Compueter Science(IEEE Honor class)**
